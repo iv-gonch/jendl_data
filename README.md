@@ -1,4 +1,4 @@
-This is a set of both partial and total (a,n) cross sections and both partial and total differential by alpha particle energy neutron spectra extracted from JENDL/AN-2005.
+This is a set of both partial and total (a,n) cross sections and both partial and total differential by alpha particle energy neutron spectra extracted from JENDL-5.
 
 The data are available for the following isotopes:
 
